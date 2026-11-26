@@ -39,5 +39,5 @@ Passionné par l'administration des systèmes, les réseaux et la cybersécurit�
 
 ## 📫 Me contacter
 
-- LinkedIn : À COMPLÉTER (lien vers ton profil)
+- LinkedIn : [linkedin.com/in/omar-berriche](https://www.linkedin.com/in/omar-berriche)
 - E-mail : berricheomar4@gmail.com
